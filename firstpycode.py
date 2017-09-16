@@ -1,2 +1,2 @@
-#First Python Code 
+#First Python Code
 print("Hello World")
